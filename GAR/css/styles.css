@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+#header-title {
+  color: #fedc4c;
+  font-weight: 800;
+}
+
+.gradient {
+  background: rgb(51, 157, 215);
+  background: linear-gradient(
+    90deg,
+    rgba(51, 157, 215, 1) 60%,
+    rgb(0, 96, 147) 100%
+  );
+}
+
+.inputGroupBG {
+  background: #ff0000;
+}
+
+.page-header {
+  margin-top: 4rem;
+  font-size: 1.2rem;
+  color: rgb(255, 255, 255);
+}
+
+.service {
+  color: rgb(255, 255, 255);
+}
+
+.bg-primary {
+  background-color: red !important;
+}
+
+.label {
+  color: white;
+}
+
+
